@@ -4,6 +4,9 @@
 
 This repository contains three modular Java projects demonstrating the use of **Enterprise JavaBeans (EJB)**, **Remote Method Invocation (RMI)**, and **Web Integration** with **JSP**. The projects work together to create a simple application for currency conversion, featuring a modular design with a **Core** module, an **AppModule** (EJB implementation), and a **WebApp** (Servlet-based web interface).
 
+## 📽️ Demo Video
+[![Java RMI Project Demo](https://github.com/chamikathereal/Java-EJB-RMI/blob/main/Java-EJB-RMI.jpg)](https://youtu.be/gwV-9rF5hJs)
+
 ### Table of Contents
 
 1. [Project Structure](#project-structure)
