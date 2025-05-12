@@ -7,6 +7,8 @@ This repository contains three modular Java projects demonstrating the use of **
 ## 📽️ Demo Video
 [![Java RMI Project Demo](https://github.com/chamikathereal/Java-EJB-RMI/blob/main/Java-EJB-RMI.jpg)](https://youtu.be/gwV-9rF5hJs)
 
+---
+
 ### Table of Contents
 
 1. [Project Structure](#project-structure)
